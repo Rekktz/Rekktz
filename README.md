@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey
 
-<!--
-**Rekktz/Rekktz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend dev at [@PhantomMasterTeam](https://github.com/PhantomMasterTeam).
 
-Here are some ideas to get you started:
+building game servers in C# / .NET 8. mostly packet handlers, session management, and the kind of code that breaks silently at 2am.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previously spent way too long on NosTale private servers. now doing it properly.
+
+---
+
+```
+current stack: .NET 8 | PostgreSQL | Redis | Docker | K8s
+```
